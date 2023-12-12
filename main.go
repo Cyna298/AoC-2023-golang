@@ -1,6 +1,5 @@
 package main
 
-
-func main(){
-    Day3P2()
+func main() {
+	day4()
 }
